@@ -10,7 +10,7 @@ Testing https://dev.to/sophiabrandt/how-to-deploy-eleventy-to-github-pages-with-
 
 <!-- Excerpt End -->
  
-## Article
+## Articles
 In this article, you learned how to automatically deploy an Eleventy-created static site to GitHub Pages.
 
 The biggest hurdle is the broken navigation in production. Eleventy offers a way to solve that problem by using a pathPrefix configuration and a filter function.
